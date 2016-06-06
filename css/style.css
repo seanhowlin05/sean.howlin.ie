@@ -51,6 +51,14 @@ h2 {
 .post {
   overflow: auto;
 }
+.post a {
+    color: #D2D9DF;
+}
+
+.post a:hover {
+  text-decoration: none;
+}
+
 .post img {
   max-width: 150px;
   float: left;
